@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ho3einMM PhD Student in Chemical Engineering
+- 👋 Hi, I’m @Ho3einMM PhD in Chemical Engineering
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning and developing Algorithms for Chemical Engineering problems
 - 💞️ I’m looking to collaborate on Chem Group
